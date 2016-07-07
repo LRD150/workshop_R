@@ -24,7 +24,7 @@ Lukas <- 3
 
 
 Eine Mittelwertsanalyse
-```{r}
+```{r Datenanalyse}
 v <- c(2,4,23,87)
 mean(v)
 ```
